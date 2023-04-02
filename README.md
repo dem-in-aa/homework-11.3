@@ -14,6 +14,35 @@
 - [как просматривать логи в kibana](https://www.elastic.co/guide/en/kibana/current/discover.html);
 - [решение ошибки increase vm.max_map_count elasticsearch](https://stackoverflow.com/questions/42889241/how-to-increase-vm-max-map-count).
 
+
+---
+
+## Установка docker-engine, docker-compose, docker-desktop
+
+![](img/0-1.png)
+---
+![](img/0-2.png)
+---
+![](img/0-3.png)
+---
+![](img/0-4.png)
+---
+![](img/0-5.png)
+---
+![](img/0-6.png)
+---
+![](img/0-7.png)
+---
+![](img/0-8.png)
+---
+![](img/0-9.png)
+---
+![](img/0-10.png)
+---
+![](img/0-11.png)
+---
+
+
 ### Задание 1. Elasticsearch 
 
 Установите и запустите Elasticsearch, после чего поменяйте параметр cluster_name на случайный. 
