@@ -18,7 +18,7 @@
 ---
 
 
-## Установка docker-engine, docker-compose, docker-desktop
+## Установка docker-engine, docker-compose.
 
 ![](img/0-1.png)
 ---
