@@ -15,3 +15,5 @@ systemctl restart logstash.service
 systemctl status logstash.service
 
 usermod -aG adm logstash
+
+GET /_cat/indices
