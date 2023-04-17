@@ -17,3 +17,5 @@ systemctl status logstash.service
 usermod -aG adm logstash
 
 GET /_cat/indices
+
+curl -X GET "localhost:9200/_cat/indices?pretty"
